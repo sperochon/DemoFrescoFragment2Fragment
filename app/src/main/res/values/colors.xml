@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#FFF76623</color>
+  <color name="colorPrimaryDark">#FFE8540D</color>
+  <color name="colorAccent">@color/colorPrimary</color> <!-- #FFCA00</color> -->
+
+  <color name="window_background">#FFF5F5F5</color>
+
+  <!-- Gris foncé: #646567 -->
+  <!-- Gris clair: #999A9F -->
+</resources>

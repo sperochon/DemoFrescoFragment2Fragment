@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">"Demo"</string>
+
+  <string name="navigation_drawer_open">Ouvrir le menu latéral</string>
+  <string name="navigation_drawer_close">Fermer le menu latéral</string>
+
+</resources>
